@@ -1,0 +1,79 @@
+[
+    {
+     "name": "Dreses",
+      "products": [
+            {
+                "name": "Floral Patterned Knit Dres",
+                "size": "L",
+                "color": "Yellow",
+                "prijs": 15.99,
+                "image": "https://firebasestorage.googleapis.com/v0/b/shopping-ef663.appspot.com/o/images%2Fclothting%2Fwomen%2Fdreses%2FS4885AZ_20HS_YL1_03_01_600x.jpg?alt=media&token=1f83025d-41a8-4821-9d3d-a7aef6416c1f/>"
+            },
+            {
+                "name": "Floral Patterned Knit Dres",
+                "size": "L",
+                "color": "blue",
+                "prijs": 15.99,
+                "image": "https://firebasestorage.googleapis.com/v0/b/shopping-ef663.appspot.com/o/images%2Fclothting%2Fwomen%2Fdreses%2FR4469AZ_20SP_BE43_02_01_600x.jpg?alt=media&token=fec42bc8-e004-4d31-888a-0e1b46d3269d>"
+            },
+            {
+                "name": "Patterned off Shoulder Dres",
+                "size": "L",
+                "color": "White",
+                "prijs": 29.99,
+                "image": "https://firebasestorage.googleapis.com/v0/b/shopping-ef663.appspot.com/o/images%2Fclothting%2Fwomen%2Fdreses%2FR4469AZ_20SP_BE43_02_01_600x.jpg?alt=media&token=fec42bc8-e004-4d31-888a-0e1b46d3269d"
+            }
+
+        ]
+
+    },
+    {
+        "name": "jeans",
+        "products": [
+            {
+                "name": "Wide Leg Fit Extra High Waist Dirty jeans",
+                "size": "XS",
+                "color": "black",
+                "prijs": 19.9,
+                "image": "https://firebasestorage.googleapis.com/v0/b/shopping-ef663.appspot.com/o/images%2Fclothting%2Fwomen%2Fjeans%2FT9537AZ_21SM_NM40_05_02_600xB.jpg?alt=media&token=e2636071-338e-4c83-9601-11f0d80c8dae"
+            },
+            {
+                "name": "Two-Tone Mom Fit Jeans jeans",
+                "size": "L",
+                "color": "Bleu",
+                "prijs": 19.9,
+                "image": "https://firebasestorage.googleapis.com/v0/b/shopping-ef663.appspot.com/o/images%2Fclothting%2Fwomen%2Fjeans%2FS7241AZ_21SP_NM28_01_01_600x.jpg?alt=media&token=45611999-9836-4add-97b5-5a34546b522d"
+            },
+            {
+                "name": "Mom Fit Extra High Waist Jeans",
+                "size": "M",
+                "color": "Bleu",
+                "prijs": 29.9,
+                "image": "https://firebasestorage.googleapis.com/v0/b/shopping-ef663.appspot.com/o/images%2Fclothting%2Fwomen%2Fjeans%2FL0595AZ_20SP_NM39_01_03_600x.jpg?alt=media&token=ffd26193-bd55-4322-a1c8-7f40cb2d27a1"
+            },
+            {
+                "name": "Mom Fit Extra High Waist jeans",
+                "size": "S",
+                "color": "black",
+                "prijs": 24.99,
+                "image": "https://firebasestorage.googleapis.com/v0/b/shopping-ef663.appspot.com/o/images%2Fclothting%2Fwomen%2Fjeans%2FV4998AZ_21AU_NM28_01_01_600x.jpg?alt=media&token=1388bb0e-2e96-4a47-9d72-e569426e1f2b"
+            }
+
+        ]
+
+    },
+    {
+        "name": "jackets",
+        "products": [
+            {
+				"name": "Dreses",
+				"size": "L",
+				"color": "Yellow",
+				"prijs": 9.9,
+                "image": "https://firebasestorage.googleapis.com/v0/b/shopping-ef663.appspot.com/o/images%2Fclothting%2Fwomen%2Fjackets%2FR0390AZ_20WN_YL2_01_02_600x.jpg?alt=media&token=88e012ab-88b2-4516-a257-356c44ee2120"
+	        }
+        ]
+
+    }
+
+]
